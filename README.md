@@ -7,7 +7,7 @@ es extended
 Ox_lib
 qtarget or ox_target
 
-#Installation
+# Installation
 Drag and drop in resources folder
 ensure in cfg
 enjoy
